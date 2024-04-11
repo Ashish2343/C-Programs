@@ -24,7 +24,14 @@ void reverse(int arr[],int len){
 }
 int main(){
         int arr[] = {1,2,3,4};
+        printf("Original Array :- ");
+        disp(arr,4);
+        printf("\n");
         int len = sizeof(arr)/sizeof(arr[0]);
+        printf("Reverse Array :- ");
         reverse(arr,len);
+        printf("\n");
+        printf("Name - Ashish");
+        printf("Roll No. - 23/MC/35");
         return 0;
 }

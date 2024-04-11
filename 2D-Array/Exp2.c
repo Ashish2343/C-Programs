@@ -31,7 +31,12 @@ int main(){
         {4,5,6},
         {7,8,9}
     };
+       printf("Original Matrix - \n");
     dispArray(mat1,3,3);
+    printf("Transpose Matrix - \n");
     transpose(mat1,3,3);
+    
+    printf("Name - Ashish \n");
+    printf("Roll No. - 23/MC/35 \n");
     return 0;
 }

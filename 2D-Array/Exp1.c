@@ -48,4 +48,6 @@ void main() {
     sum(mat1,mat2,3,3);
     mul(mat1,mat2,3,3);
     
+    printf("Name - Ashish \n");
+    printf("Roll No. - 23/MC/35");
 }
