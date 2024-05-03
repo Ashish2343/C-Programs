@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+  
 int main(){
     int x = 121;
     int reverse = 0;

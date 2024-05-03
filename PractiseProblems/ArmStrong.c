@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+  
 int CountDigit(int x){
     int count=0;
     while(x!=0){

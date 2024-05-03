@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+  
 // Function to calculate the nth Fibonacci number
 int fibonacci(int n) {
     if (n <= 1)
